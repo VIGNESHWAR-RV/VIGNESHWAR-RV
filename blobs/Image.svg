@@ -1,0 +1,30 @@
+
+
+<svg fill="none" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+
+      <style>
+        /* your CSS */
+      </style>
+
+      <!-- your HTML -->
+
+     <div style="display:grid;place-items:center;margin:20px">
+        <img  src="./RV.svg"   
+          style="object-fit:cover;
+                 border-radius:2vmax;
+                 min-height:200px;
+                 max-height:180px;
+                 object-position:top;
+                 ">
+          </img>
+     </div>
+
+    </div>
+  </foreignObject>
+</svg>
+
+
+
+
