@@ -7,45 +7,46 @@
 
 <h3 align="center"> Determined FullStack Web Developer from India.</h3>
 
-<hr color="white" style="border:none" />
+<hr />
 
 
 
-<img align="left" src="./blobs/Image.svg" alt="VIGNESHWAR-RV">
- </img>
+<!-- <img align="left" src="./blobs/Image.svg" alt="VIGNESHWAR-RV">
+ </img> -->
 
 
 
- <p align="right">
+ <p align="left">
  <img src="https://komarev.com/ghpvc/? username=VIGNESHWAR-RV&label=Vistiors+Count& color=ff0000&style=plastic" alt="VIGNESHWAR-RV">
  </img> 
  </p>
  
 
-- 🌱 I’m currently learning <i    style="color:red">**MERN Stack**</i> of web development.
+- 🌱 I’m currently learning <i>**MERN Stack**</i> of web development.
  
    
-- 💬 Ask me about <i  style="color:red">**JavaScript**</i>.
+- 💬 Ask me about <i>**JavaScript**</i>.
    
-- 🔭 I’m currently working on <i    style="color:red">**CRM Service Flow App**</i>.
+- 🔭 I’m currently working on <i>**CRM Service Flow App**</i>.
    
-- 🧔 Fun fact : <i style="color:red" >**Problems are something  that   drive me crazy**</i>
+- 🧔 Fun fact : <i>**Problems are something  that   drive me crazy**</i>
 
 
 
-<hr color="white" style="border:none" />
+<hr />
 
 
 <img src="./blobs/toolsHeading.svg"></img>
 
+
 <br/>
 
 <p align="center">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="background-color:white" /> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" /> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 
 </p>
 
-<hr color="white" style="border:none"/>
+<hr />
 
 
 <img align="center" src="./blobs/GithubHeading.svg"></img>
@@ -58,9 +59,9 @@
 
 
 <p align="center">
-	<a href="vigneshwarrv666@gmail.com" target="_blank" style="color:red" align="center">Send Email</a> |
-	<a href="https://vigneshwar-rv.netlify.app/" style="color:red" target="_blank" align="center">Portfolio</a> |
-	<a href="https://drive.google.com/file/d/1sl8F4qdyjYLVlJZxUTyOM-I9d7lMz8V3/view?usp=sharing" style="color:red" target="_blank" align="center">Resume</a>
+	<a href="vigneshwarrv666@gmail.com" target="_blank" align="center">Send Email</a> |
+	<a href="https://vigneshwar-rv.netlify.app/"target="_blank" align="center">Portfolio</a> |
+	<a href="https://drive.google.com/file/d/1sl8F4qdyjYLVlJZxUTyOM-I9d7lMz8V3/view?usp=sharing"  target="_blank" align="center">Resume</a>
 	
 </p>
 <h3 align="center">Connect with me</h3>
