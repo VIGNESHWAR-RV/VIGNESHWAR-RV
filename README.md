@@ -7,7 +7,7 @@
 
 <h3 align="center"> Determined FullStack Web Developer from India.</h3>
 
-<hr />
+<br />
 
 
 
