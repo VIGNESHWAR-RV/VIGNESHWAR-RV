@@ -11,8 +11,7 @@
 
 
 
-<img align="left" src="./blobs/Image.svg" alt="VIGNESHWAR-RV"   
-width=200 >
+<img align="left" src="./blobs/Image.svg" alt="VIGNESHWAR-RV">
  </img>
 
 

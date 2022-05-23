@@ -10,12 +10,12 @@
 
       <!-- your HTML -->
 
-     <div style="display:grid;place-items:center;margin:20px">
+     <div style="display:grid;place-items:center;overflow:hidden">
         <img  src="./RV.svg"   
           style="object-fit:cover;
                  border-radius:2vmax;
                  min-height:200px;
-                 max-height:180px;
+                 max-height:200px;
                  object-position:top;
                  ">
           </img>
