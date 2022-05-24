@@ -7,12 +7,15 @@
         /* your CSS */
       </style>
 
+
       <!-- your HTML -->
-      <div align="center" 
-           style="min-width:500px;
+
+<!-- style="min-width:500px;
                   width:max-content;
                   display:grid;
-                  justify-items:center">
+                  justify-items:center" -->
+
+      <div align="center">
         <i align="center" style="color:red"><b>Github Quick Info  </b></i>
       </div>
       
