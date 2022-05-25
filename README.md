@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">Hi Visitor👋, <b>Vigneshwar Venkatachalam </b>
+<h1 align="center">Hi Visitor👋, <b>Vigneshwar Venkatachalam </b><img src="./blobs/Name.svg" alt="RV" width="40" height="40"><img>
  <!-- <i style="color:red"> RV  </i> -->
  </h1>
 
@@ -17,7 +17,7 @@
 
 
  <p align="left">
- <img src="https://komarev.com/ghpvc/? username=VIGNESHWAR-RV&label=Vistiors+Count& color=ff0000&style=plastic" alt="VIGNESHWAR-RV">
+ <img src="https://komarev.com/ghpvc/?username=VIGNESHWAR-RV&label=Vistiors+Count& color=ff0000&style=plastic" alt="VIGNESHWAR-RV">
  </img> 
  </p>
  
@@ -59,9 +59,9 @@
 
 
 <p align="center">
-	<a href="vigneshwarrv666@gmail.com" target="_blank" align="center">Send Email</a> |
-	<a href="https://vigneshwar-rv.netlify.app/"target="_blank" align="center">Portfolio</a> |
-	<a href="https://drive.google.com/file/d/1UHt2Bp_lMljtQANURsE7hcfIpyfqChni/view?usp=sharing"  target="_blank" align="center">Resume</a>
+	<a href="vigneshwarrv666@gmail.com" target="_blank" align="center"><img src="./blobs/sendEmail.svg" width="80" height="40" alt="Send Email"></img></a> |
+	<a href="https://vigneshwar-rv.netlify.app/"target="_blank" align="center"><img src="./blobs/Portfolio.svg"  width="80" height="40" alt="Portfolio"></img></a>|
+	<a href="https://drive.google.com/file/d/1UHt2Bp_lMljtQANURsE7hcfIpyfqChni/view?usp=sharing"  target="_blank" align="center"><img src="./blobs/Resume.svg" width="80" height="40" alt="Resume"></img></a>
 	
 </p>
 <h3 align="center">Connect with me</h3>
