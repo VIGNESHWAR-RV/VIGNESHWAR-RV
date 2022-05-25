@@ -61,7 +61,7 @@
 <p align="center">
 	<a href="vigneshwarrv666@gmail.com" target="_blank" align="center">Send Email</a> |
 	<a href="https://vigneshwar-rv.netlify.app/"target="_blank" align="center">Portfolio</a> |
-	<a href="https://drive.google.com/file/d/1sl8F4qdyjYLVlJZxUTyOM-I9d7lMz8V3/view?usp=sharing"  target="_blank" align="center">Resume</a>
+	<a href="https://drive.google.com/file/d/1UHt2Bp_lMljtQANURsE7hcfIpyfqChni/view?usp=sharing"  target="_blank" align="center">Resume</a>
 	
 </p>
 <h3 align="center">Connect with me</h3>
