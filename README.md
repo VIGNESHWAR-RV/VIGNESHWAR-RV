@@ -9,10 +9,6 @@
 
 <br />
 
- <p align="left">
-   <img src="https://komarev.com/ghpvc/?username=VIGNESHWAR-RV&label=Vistiors+Count&   color=ff0000&style=plastic" alt="VIGNESHWAR-RV">
-   </img> 
- </p>
  
 - 🌱 I’m currently learning, working and rolling my head on web development domain ( <i>**MERN Stack**</i> )
  
