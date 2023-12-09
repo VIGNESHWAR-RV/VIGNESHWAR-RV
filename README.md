@@ -1,20 +1,13 @@
 
 
 
-<h1 align="center">Hi Visitor👋, <b>Vigneshwar Venkatachalam </b><img src="./blobs/Name.svg" alt="RV" width="40" height="40"><img>
- <!-- <i style="color:red"> RV  </i> -->
+<h1 align="center">Hi Visitor👋, Myself <b>Vigneshwar Venkatachalam </b>
+<!-- <img src="./blobs/Name.svg" alt="RV" width="40" height="40"><img> -->
  </h1>
 
 <h3 align="center">Code with Responsibility, Code with Humanity</h3>
 
 <br />
-
-
-
-<!-- <img align="left" src="./blobs/Image.svg" alt="VIGNESHWAR-RV">
- </img> -->
-
-
 
  <p align="left">
  <img src="https://komarev.com/ghpvc/?username=VIGNESHWAR-RV&label=Vistiors+Count& color=ff0000&style=plastic" alt="VIGNESHWAR-RV">
@@ -22,22 +15,15 @@
  </p>
  
 
-- 🌱 I’m currently learning <i>**MERN Stack**</i> of web development.
+- 🌱 I’m currently learning, working and rolling my head on web development domain ( <i>**MERN Stack**</i> )
  
-   
-- 💬 Ask me about <i>**JavaScript**</i>.
-   
-- 🔭 I’m currently working on <i>**CRM Service Flow App**</i>.
-   
-- 🧔 Fun fact : <i>**Problems are something  that   drive me crazy**</i>
+- 💬 Love to share coffees on dicussing <i>**JavaScript**</i>.
 
-
+- 🧔 Fun fact : <i>**Problem Solving is something that is driving me crazy**</i>
 
 <hr />
 
-
 <img src="./blobs/toolsHeading.svg"></img>
-
 
 <br/>
 
