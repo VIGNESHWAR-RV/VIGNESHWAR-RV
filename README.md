@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=VIGNESHWAR-RV&theme=blood&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=#0080ff&background=#000000&ring=#0080ff&stroke=#0080ff&sideLabels=#0080ff&dates=FFFFFF&currStreakLabel=#0080ff&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="VIGNESHWAR-RV/github/stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=VIGNESHWAR-RV&theme=blood&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=0080ff&background=ffffff&ring=0080ff&stroke=0080ff&sideLabels=0080ff&dates=000000&currStreakLabel=0080ff&currStreakNum=000000&sideNums=000000" alt="VIGNESHWAR-RV/github/stats">
   </img>
 </p>
 
