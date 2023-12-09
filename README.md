@@ -5,7 +5,7 @@
  <!-- <i style="color:red"> RV  </i> -->
  </h1>
 
-<h3 align="center"> Determined FullStack Web Developer from India.</h3>
+<h3 align="center">Code with Responsibility, Code with Humanity</h3>
 
 <br />
 
