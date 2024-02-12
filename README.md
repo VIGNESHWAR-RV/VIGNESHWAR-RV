@@ -2,7 +2,9 @@
 
 
 <h1 align="center">
-   Hi Visitor👋, Myself <b>Vigneshwar Venkatachalam </b>
+   Hi👋
+   <br/>
+  I am <b>Vigneshwar Venkatachalam </b>
 </h1>
 
 <h3 align="center"><i>Code with Responsibility, Code with Humanity</i></h3>
@@ -14,11 +16,11 @@
  
 - 💬 Love to share coffees on dicussing <i>**JavaScript**</i>.
 
-- 🧔 Fun fact : <i>**Problem Solving is something that is driving me crazy**</i>
+- 🧔 Fun fact : <i>**Exploring web is something that is driving me crazy right now**</i>
 
 <hr />
 
-<h3 align="center"><i>Tools I have used to play so far</i></h3>
+<h3 align="center"><i>Things I have played with so far</i></h3>
 
 
 <p align="center">
@@ -31,17 +33,11 @@
 </p>
 
 
-<p align="center">
-	<a href="vigneshwarrv666@gmail.com" target="_blank" align="center">Send Email</a> |
-	<a href="https://vigneshwar-rv.netlify.app/" target="_blank" align="center">Portfolio</a> |
-	<a href="https://drive.google.com/file/d/1nwyvVaKklIlKNeKKrPB2-Qv1jwfnLgex/view?usp=sharing"  target="_blank" align="center">Resume</a>
-	
-</p>
 <h3 align="center">Connect with me</h3>
 <p align="center">
+<a href="vigneshwarrv666@gmail.com" target="_blank" align="center">Send Email</a> |
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vigneshwar-rv/" target="blank">Linked In</a>
 </p>
-
 
 <br />
 
